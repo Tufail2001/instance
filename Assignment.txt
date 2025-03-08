@@ -1,0 +1,68 @@
+Agentic AI Startup RoadMap
+Islamabad Teams
+
+Assignment Level 1:
+1. Anthropic Design Patters
+2. Crewai flows implementation of design patterns and litellm
+3. Crews, agents, tasks in crewai
+4. knowledge, RAG in crewai
+5. Function calling in crewai
+6. Memory in crewai
+7. MCP (model context protocol) in depth
+8. MCP integration in crewai with crews, agents and task
+9. MCP integration with litellm
+10. Stripe agentic payments
+11. Crewai default deployment Payment Alternatives
+12. Crewai deployment with cloud native (Docker, Kubernetes)
+13. Crewai deployment with Serverless Containers (Docker, Azure container apps)
+14. Next.js UI integration with crewai
+15. Crewai inter agent communication (deplooyed seperately)
+16. Ovservabilitly with AgentOps
+Assignment Level 2:
+1. LangGraph Functional API
+2. LangGraph design pattern implementation with langchain
+3. Task and entrypoint
+4. Knowledge, RAG in langGraph
+5. Function calling in langGraph
+6. Memory in LangGraph
+7. MCP integration in LangGraph
+8. Stripe agentic payments with langGraph
+9. LangGraph default deployment (LangServer)
+10. LangGraph deployment with cloud native (Docker, Kubernetes)
+11. LangGraph deployment with Serverless Containers (Docker, Azure container apps)
+12. Next.js UI integration with langGraph
+13. LangGraph inter agent communication (deployed seperately)
+14. Obserability with langSmith
+15. LangGraph and crewai inter-agent communication (deployed seperately)
+16. Research on inter-agent communication protocols
+17. Crewai automated coding with cursor and GitHub copilot
+
+Assignment Level 3 ( Etnerprose level)
+1. Autogen > 0.4
+2. MCP with autogen
+3. Stripe with autogen
+4. Deployment with serverless container (Azure)
+5. Inter-agent communication with all other agents
+
+Assignment Level 4 (Agentia World Submission)
+1. Select and Build vertical agents that can be use dwith inter-agent communication protocol
+2. Select and Build MCP servers
+3. Stripe payment
+4. Obserability
+
+
+Assigment Level 5 (Become a Startup Founder)
+
+1. Identify market gap, research and comeup with starup  
+
+
+Team: Zahir Ahmed, Rehan , Usman, Husnain, Tufail, Wania, Ibtisam
+
+--crewai create flow blog_flow (creates a folder of blog_flow)
+
+@LangGraph create a simple example to implement this router design pattern using fanctional api. Use  random modeule to route
+Routing classifies an input and directs it to a specialized followup task. This workflow allows for seperation of concerns,
+and building more specialized ptompts. Without this workflow, optimizing for one kind of input can hurt performance on other inputs 
+
+021111002002 standard chartered bank 03125307376 Dr Adeel
+49049e2d294f
