@@ -51,9 +51,9 @@ Assignment Level 4 (Agentia World Submission)
 4. Obserability
 
 
-Assigment Level 5 (Become a Startup Founder)
+Assignment Level 5 (Become a Startup Founder)
 
-1. Identify market gap, research and comeup with starup  
+1. Identify market gap, research and come up with star up  
 
 
 Team: Zahir Ahmed, Rehan , Usman, Husnain, Tufail, Wania, Ibtisam
@@ -62,7 +62,7 @@ Team: Zahir Ahmed, Rehan , Usman, Husnain, Tufail, Wania, Ibtisam
 
 @LangGraph create a simple example to implement this router design pattern using fanctional api. Use  random modeule to route
 Routing classifies an input and directs it to a specialized followup task. This workflow allows for seperation of concerns,
-and building more specialized ptompts. Without this workflow, optimizing for one kind of input can hurt performance on other inputs 
+and building more specialized prompts. Without this workflow, optimizing for one kind of input can hurt performance on other inputs 
 
 021111002002 standard chartered bank 03125307376 Dr Adeel
 49049e2d294f
