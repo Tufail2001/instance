@@ -53,19 +53,20 @@ Assignment Level 4 (Agentia World Submission)
 
 Assignment Level 5 (Become a Startup Founder)
 
-1. Identify market gap, research and come up with star up  
+1. Identify the market gap, research, and come up with a startup  
 
 
 Team: Zahir Ahmed, Rehan , Usman, Husnain, Tufail, Wania, Ibtisam
 
 --crewai create flow blog_flow (creates a folder of blog_flow)
 
-@LangGraph create a simple example to implement this router design pattern using fanctional api. Use  random modeule to route
-Routing classifies an input and directs it to a specialized followup task. This workflow allows for seperation of concerns,
+@LangGraph, create a simple example of implementing this router design pattern using the functional API. Use a  random module to route
+Routing classifies an input and directs it to a specialized follow-up task. This workflow allows for the separation of concerns
 and building more specialized prompts. Without this workflow, optimizing for one kind of input can hurt performance on other inputs 
 
-021111002002 standard chartered bank 03125307376 Dr Adeel
+021111002002 Standard Chartered Bank 03125307376 Dr Adeel
 49049e2d294f
 
 https://t.me/MinerPiNetworkBot (picoin telegram)
 https://t.me/MinerPiNetworkBot
+
