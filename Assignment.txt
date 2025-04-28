@@ -25,7 +25,7 @@ Assignment Level 2:
 4. Knowledge, RAG in langGraph
 5. Function calling in langGraph
 6. Memory in LangGraph
-7. MCP integration in LangGraph
+7. MCP integration in LangGraph.
 8. Stripe agentic payments with langGraph
 9. LangGraph default deployment (LangServer)
 10. LangGraph deployment with cloud native (Docker, Kubernetes)
