@@ -68,5 +68,5 @@ and building more specialized prompts. Without this workflow, optimizing for one
 49049e2d294f
 
 https://t.me/MinerPiNetworkBot (picoin telegram)
-https://t.me/MinerPiNetworkBot
+https://t.me/MinerPiNetworkBot.
 
