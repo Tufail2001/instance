@@ -56,7 +56,7 @@ Assignment Level 5 (Become a Startup Founder)
 1. Identify the market gap, research, and develop a startup.  
 
 
-Team: Zahir Ahmed, Rehan , Usman, Husnain, Tufail, Wania, Ibtisam
+Team: Zahir Ahmed, Rehan, Usman, Husnain, Tufail, Wania, Ibtisam
 
 --crewai create flow blog_flow (creates a folder of blog_flow)
 
