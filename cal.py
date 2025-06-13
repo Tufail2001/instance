@@ -67,4 +67,4 @@ class Calculator:
     calc.subtract(5)     # Returns 11
     calc.divide(2)       # Returns 5.5
     calc.power(2)        # Returns 30.25
-    calc.get_history()   # Returns list of all operations
+    calc.get_history()   # Returns list of all operations 
