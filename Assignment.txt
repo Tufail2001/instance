@@ -2,7 +2,7 @@ Agentic AI Startup Roadmap:
 Islamabad Teams,
 
 Assignment Level 1:
-1. Anthropic Design Patterns.
+1. Anthropic Design Patterns
 2. Crewai flows implementation of design patterns and litellm
 3. Crews, agents, tasks in CrewAI
 4. knowledge, RAG in crewai
