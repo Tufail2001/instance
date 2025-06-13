@@ -11,7 +11,7 @@ Assignment Level 1:
 7. MCP (model context protocol) in depth
 8. MCP integration in CrewAI with crews, agents, and tasks
 9. MCP integration with litellm
-10. Stripe agent payments
+10. Stripe agent payments.
 11. Crewai default deployment Payment Alternatives
 12. Crewai deployment with cloud native (Docker, Kubernetes)
 13. Crewai deployment with Serverless Containers (Docker, Azure container apps)
