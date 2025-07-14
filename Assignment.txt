@@ -32,7 +32,7 @@ Assignment Level 2:
 11. LangGraph deployment with Serverless Containers (Docker, Azure container apps)
 12. Next.js UI integration with langGraph
 13. LangGraph inter-agent communication (deployed separately)
-14. Obserability with langSmith
+14. Observability with langSmith
 15. LangGraph and crewai inter-agent communication (deployed separately)
 16. Research on inter-agent communication protocols
 17. Crewai automated coding with the cursor and GitHub Copilot
