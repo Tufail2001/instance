@@ -17,7 +17,7 @@ Assignment Level 1:
 13. Crewai deployment with Serverless Containers (Docker, Azure container apps)
 14. Next.js UI integration with crewai
 15. Crewai inter-agent communication (deployed separately)
-16. Observability with AgentOps
+16. Observability with AgentOps.
 Assignment Level 2:
 1. LangGraph Functional API
 2. LangGraph design pattern implementation with LangChain
