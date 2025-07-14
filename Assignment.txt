@@ -1,5 +1,5 @@
 Agentic AI Startup Roadmap:
-Islamabad Teams
+Islamabad Teams:
 
 Assignment Level 1:
 1. Anthropic Design Patterns.
