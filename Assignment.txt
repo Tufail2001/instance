@@ -1,11 +1,11 @@
 Agentic AI Startup Roadmap:
 Islamabad Teams,
 
-Assignment Level 1
+Assignment Level 1:
 1. Anthropic Design Patterns.
 2. Crewai flows implementation of design patterns and litellm
 3. Crews, agents, tasks in CrewAI
-4. knowledge, RAG in crewai
+4. knowledge, RAG in crewai.
 5. Function calling in CrewAI.
 6. Memory in crewai.
 7. MCP (model context protocol) in depth
