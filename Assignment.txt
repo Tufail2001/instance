@@ -48,7 +48,7 @@ Assignment Level 4 (Agentia World Submission)
 1. Select and build vertical agents that can be used with an inter-agent communication protocol
 2. Select and Build MCP Servers
 3. Stripe payment
-4. Observability
+4. Observability.
 
 
 Assignment Level 5 (Become a Startup Founder):
