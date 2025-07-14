@@ -8,7 +8,7 @@ Assignment Level 1:
 4. knowledge, RAG in crewai.
 5. Function calling in CrewAI.
 6. Memory in crewai.
-7. MCP (model context protocol) in depth
+7. MCP (model context protocol) in depth.
 8. MCP integration in CrewAI with crews, agents, and tasks
 9. MCP integration with litellm.
 10. Stripe agent payments.
