@@ -7,7 +7,7 @@ Assignment Level 1:
 3. Crews, agents, and tasks in CrewAI.
 4. knowledge, RAG in crewai.
 5. Function calling in CrewAI.
-6. Memory in crewai.
+6. Memory in crewai
 7. MCP (model context protocol) in depth.
 8. MCP integration in CrewAI with crews, agents, and tasks
 9. MCP integration with litellm.
