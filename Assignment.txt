@@ -64,7 +64,7 @@ Team: Zahir Ahmed, Rehan, Usman, Husnain, Tufail, Wania, Ibtisam
 Routing classifies an input and directs it to a specialized follow-up task. This workflow allows for the separation of concerns
 and building more specialized prompts. Without this workflow, optimizing for one type of input can negatively impact performance on other types of input.
 
-021111002002 Standard Chartered Bank 03125307376 Dr Adeel
+021111002002 Standard Chartered Bank 03125307376 Dr Adeel.
 49049e2d294f
 
 https://t.me/MinerPiNetworkBot (picoin telegram).
